@@ -57,10 +57,10 @@ I chose to present the elements that are grouped together before so that it woul
  ## CSS Architecture
  Since I used the Z-pattern and F-pattern I used 2 different stylesheets for each of these type of pages. In my html I had separated everything into sections which made it easier to adjust on the CSS. I took each of this sections and made design choices with the CSS. 
  
- ## Php Includes
+ ## PHP Includes
  * Menu Bar 
  * Scripts for menu highlighter
  
  ## Info Taken From
-https://www.caninejournal.com/bulldog/
-https://dogtime.com/dog-breeds/bulldog#/slide/1
+* https://www.caninejournal.com/bulldog/
+* https://dogtime.com/dog-breeds/bulldog#/slide/1
